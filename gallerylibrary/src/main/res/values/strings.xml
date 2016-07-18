@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery Library</string>
+    <plurals name="image_count">
+        <item quantity="one">%d Image</item>
+        <item quantity="other">%d Images</item>
+    </plurals>
+</resources>
