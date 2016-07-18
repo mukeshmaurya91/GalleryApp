@@ -5,4 +5,4 @@ Simple implementation of gallery App. Which follows android Displaying Bitmaps E
 ## Screenshot
   ![Gallery App](/screenshot.png)
 ## Android guide
-  [For more visit : ](https://developer.android.com/training/displaying-bitmaps/index.html)
+  [Displaying Bitmaps Efficiently  'https://developer.android.com/'](https://developer.android.com/training/displaying-bitmaps/index.html)
